@@ -2,10 +2,10 @@
 <h3 align="center">FrontEnd Developer</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+Frontend+Developer+%F0%9F%9A%80;I+build+modern+and+interactive+UIs+%E2%9C%A8;React%2C+JavaScript+%26+TypeScript+developer+%F0%9F%92%BB;I+turn+ideas+into+real+web+products+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+Frontend+Developer+;I+build+modern+and+interactive+UIs+;React%2C+JavaScript+%26+TypeScript+;I+turn+ideas+into+real+web+products+" alt="Typing SVG" />
   </a>
 </p>
-
+<hr>
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" align="right" width="320">
 
 - 🌱 I’m currently learning **JS,REACT,TS**
