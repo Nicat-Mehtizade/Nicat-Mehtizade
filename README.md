@@ -2,7 +2,7 @@
 <h3 align="center">FrontEnd Developer</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+Frontend+Developer+;I+build+modern+and+interactive+UIs+;Tailwind+%7CReact%2C+JavaScript+%26+TypeScript+;I+turn+ideas+into+real+web+products+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+Frontend+Developer+;I+build+modern+and+interactive+UIs+;React+%7C+JavaScript+%7C+TypeScript+;I+turn+ideas+into+real+web+products+" alt="Typing SVG" />
   </a>
 </p>
 
